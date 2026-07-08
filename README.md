@@ -178,7 +178,7 @@ ST-T1024 is designed for certification under:
 
 ---
 
-📡 **Repository:** https://github.com/actuing/ST-T1024-APPLICATIONS  
+📡 **Repository:** https://github.com/actuing/ST-T1024----APPLICATIONS  
 📡 **Standard:** https://github.com/actuing/ST-T1024-STANDARD-FOR-EMBEDDED-LLM  
 📡 **License:** Apache-2.0
 _______________
