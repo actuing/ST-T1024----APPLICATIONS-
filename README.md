@@ -38,11 +38,11 @@ Each file is a complete, standalone use case.
 | # | Application | Domain |
 |---|-------------|--------|
 | 01 | [Edge AI Generalities](01-EDGE-AI-GENERALITIES.md) | Universal |
-| 02 | Automotive ISO 26262 *(coming)* | Automotive |
-| 03 | Aerospace DO-178C *(coming)* | Aerospace |
-| 04 | Industrial IEC 61508 *(coming)* | Industrial |
-| 05 | Healthcare *(coming)* | Healthcare |
-| 06 | Defense *(coming)* | Defense |
+| 02 | Automotive ISO 26262  | Automotive |
+| 03 | Aerospace DO-178C  | Aerospace |
+| 04 | Industrial IEC 61508  | Industrial |
+| 05 | Healthcare | Healthcare |
+| 06 | Defense | Defense |
 | 07 | Space *(coming)* | Space |
 | 08 | Agriculture *(coming)* | Agriculture |
 | 09 | Education *(coming)* | Education |
