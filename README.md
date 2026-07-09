@@ -43,8 +43,8 @@ Each file is a complete, standalone use case.
 | 04 | Industrial IEC 61508  | Industrial |
 | 05 | Healthcare | Healthcare |
 | 06 | Defense | Defense |
-| 07 | Space *(coming)* | Space |
-| 08 | Agriculture *(coming)* | Agriculture |
+| 07 | Space | Space |
+| 08 | Agriculture | Agriculture |
 | 09 | Education *(coming)* | Education |
 | 10 | Finance *(coming)* | Finance |
 | 11 | Smart Cities *(coming)* | Smart Cities |
