@@ -45,7 +45,7 @@ Each file is a complete, standalone use case.
 | 06 | Defense | Defense |
 | 07 | Space | Space |
 | 08 | Agriculture | Agriculture |
-| 09 | Education *(coming)* | Education |
+| 09 | Education | Education |
 | 10 | Finance *(coming)* | Finance |
 | 11 | Smart Cities *(coming)* | Smart Cities |
 | 12 | Energy Grid *(coming)* | Energy |
