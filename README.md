@@ -46,8 +46,8 @@ Each file is a complete, standalone use case.
 | 07 | Space | Space |
 | 08 | Agriculture | Agriculture |
 | 09 | Education | Education |
-| 10 | Finance *(coming)* | Finance |
-| 11 | Smart Cities *(coming)* | Smart Cities |
+| 10 | Finance | Finance |
+| 11 | Smart Cities | Smart Cities |
 | 12 | Energy Grid *(coming)* | Energy |
 | 13 | Manufacturing *(coming)* | Manufacturing |
 | 14 | Telecom *(coming)* | Telecom |
