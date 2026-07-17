@@ -48,8 +48,8 @@ Each file is a complete, standalone use case.
 | 09 | Education | Education |
 | 10 | Finance | Finance |
 | 11 | Smart Cities | Smart Cities |
-| 12 | Energy Grid *(coming)* | Energy |
-| 13 | Manufacturing *(coming)* | Manufacturing |
+| 12 | Energy Grid | Energy |
+| 13 | Manufacturing | Manufacturing |
 | 14 | Telecom *(coming)* | Telecom |
 | 15 | Supply Chain *(coming)* | Supply Chain |
 | 16 | Environmental *(coming)* | Environmental |
