@@ -50,9 +50,9 @@ Each file is a complete, standalone use case.
 | 11 | Smart Cities | Smart Cities |
 | 12 | Energy Grid | Energy |
 | 13 | Manufacturing | Manufacturing |
-| 14 | Telecom *(coming)* | Telecom |
-| 15 | Supply Chain *(coming)* | Supply Chain |
-| 16 | Environmental *(coming)* | Environmental |
+| 14 | Telecom  | Telecom |
+| 15 | Supply Chain | Supply Chain |
+| 16 | Environmental | Environmental |
 | 17 | Disaster Response *(coming)* | Disaster Response |
 | 18 | Wearables *(coming)* | Wearables |
 | 19 | Smart Home *(coming)* | Smart Home |
