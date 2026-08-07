@@ -53,10 +53,10 @@ Each file is a complete, standalone use case.
 | 14 | Telecom  | Telecom |
 | 15 | Supply Chain | Supply Chain |
 | 16 | Environmental | Environmental |
-| 17 | Disaster Response *(coming)* | Disaster Response |
-| 18 | Wearables *(coming)* | Wearables |
-| 19 | Smart Home *(coming)* | Smart Home |
-| 20 | Sovereign National AI *(coming)* | Government |
+| 17 | Disaster Response | Disaster Response |
+| 18 | Wearables | Wearables |
+| 19 | Smart Home | Smart Home |
+| 20 | Sovereign National AI | Government |
 
 **This is just the beginning. 100,000,000+ applications are possible.**
 
